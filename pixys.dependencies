@@ -1,0 +1,14 @@
+[
+   {
+     "repository": "device_google_coral",
+     "target_path": "device/google/coral"
+   },
+   {
+     "repository": "kernel_google_msm-4.14",
+     "target_path": "kernel/google/msm-4.14"
+   },
+   {
+      "repository":"vendor_google_flame",
+      "target_path":"vendor/google/flame"
+   }
+]
